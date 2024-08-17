@@ -1,0 +1,445 @@
+{
+    "data": {
+        "symbols": [
+            {
+                "id": 36510,
+                "name": "NOTTRY.P",
+                "description": "Notcoin TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "NOTTRY_FUTURES",
+                "alias": "NOTTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36511,
+                "name": "COMPTRY.P",
+                "description": "Compound Governance Token TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "COMPTRY_FUTURES",
+                "alias": "COMPTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36512,
+                "name": "XECTRY.P",
+                "description": "eCash TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "XECTRY_FUTURES",
+                "alias": "XECTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36513,
+                "name": "WLDUSDT.P",
+                "description": "Worldcoin Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "WLDUSDT_FUTURES",
+                "alias": "WLDUSDT_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36514,
+                "name": "WLDBTC.P",
+                "description": "Worldcoin Bitcoin",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "WLDBTC_FUTURES",
+                "alias": "WLDBTC_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36515,
+                "name": "BNBFDUSD.P",
+                "description": "BNBFDUSD",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "BNBFDUSD_FUTURES",
+                "alias": "BNBFDUSD_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36516,
+                "name": "FDUSDUSDT.P",
+                "description": "First Digital USD Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "FDUSDUSDT_FUTURES",
+                "alias": "FDUSDUSDT_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36517,
+                "name": "WLDTRY.P",
+                "description": "Worldcoin TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "WLDTRY_FUTURES",
+                "alias": "WLDTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36518,
+                "name": "AMPTRY.P",
+                "description": "Amp TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "AMPTRY_FUTURES",
+                "alias": "AMPTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36519,
+                "name": "OGNTRY.P",
+                "description": "Origin Protocol TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "OGNTRY_FUTURES",
+                "alias": "OGNTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36520,
+                "name": "BTCFDUSD.P",
+                "description": "BitcoinFile Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "BTCFDUSD_FUTURES",
+                "alias": "BTCFDUSD_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36521,
+                "name": "ETHFDUSD.P",
+                "description": "EthereumFair Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "ETHFDUSD_FUTURES",
+                "alias": "ETHFDUSD_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36522,
+                "name": "ASRTRY.P",
+                "description": "AS Roma Fan Token TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "ASRTRY_FUTURES",
+                "alias": "ASRTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36523,
+                "name": "ATMTRY.P",
+                "description": "Atletico de Madrid Fan Token TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "ATMTRY_FUTURES",
+                "alias": "ATMTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36524,
+                "name": "ACMTRY.P",
+                "description": "AC Milan Fan Token TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "ACMTRY_FUTURES",
+                "alias": "ACMTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36525,
+                "name": "BARTRY.P",
+                "description": "FC Barcelona Fan Token TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "BARTRY_FUTURES",
+                "alias": "BARTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36526,
+                "name": "JUVTRY.P",
+                "description": "Juventus Fan Token TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "JUVTRY_FUTURES",
+                "alias": "JUVTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36527,
+                "name": "PSGTRY.P",
+                "description": "Paris Saint-Germain Fan Token TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "PSGTRY_FUTURES",
+                "alias": "PSGTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36528,
+                "name": "SEIBNB.P",
+                "description": "SEIBNB",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "SEIBNB_FUTURES",
+                "alias": "SEIBNB_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36529,
+                "name": "SEIBTC.P",
+                "description": "SEIBTC",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "SEIBTC_FUTURES",
+                "alias": "SEIBTC_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36530,
+                "name": "SEIFDUSD.P",
+                "description": "SEIFDUSD",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "SEIFDUSD_FUTURES",
+                "alias": "SEIFDUSD_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36531,
+                "name": "SEITRY.P",
+                "description": "Sei TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "SEITRY_FUTURES",
+                "alias": "SEITRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36532,
+                "name": "SEIUSDT.P",
+                "description": "Sei Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "SEIUSDT_FUTURES",
+                "alias": "SEIUSDT_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36533,
+                "name": "CYBERBNB.P",
+                "description": "CYBERBNB",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "CYBERBNB_FUTURES",
+                "alias": "CYBERBNB_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36534,
+                "name": "CYBERBTC.P",
+                "description": "CyberConnect Bitcoin",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "CYBERBTC_FUTURES",
+                "alias": "CYBERBTC_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36535,
+                "name": "CYBERFDUSD.P",
+                "description": "CYBERFDUSD",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "CYBERFDUSD_FUTURES",
+                "alias": "CYBERFDUSD_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36536,
+                "name": "CYBERTRY.P",
+                "description": "CyberConnect TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "CYBERTRY_FUTURES",
+                "alias": "CYBERTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36537,
+                "name": "CYBERUSDT.P",
+                "description": "CyberConnect Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "CYBERUSDT_FUTURES",
+                "alias": "CYBERUSDT_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36538,
+                "name": "CYBERTUSD.P",
+                "description": "CyberConnect Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "CYBERTUSD_FUTURES",
+                "alias": "CYBERTUSD_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36539,
+                "name": "LPTTRY.P",
+                "description": "Livepeer TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "LPTTRY_FUTURES",
+                "alias": "LPTTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36540,
+                "name": "UNITRY.P",
+                "description": "Uniswap Protocol Token TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "UNITRY_FUTURES",
+                "alias": "UNITRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36541,
+                "name": "SOLFDUSD.P",
+                "description": "SOLFDUSD",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "SOLFDUSD_FUTURES",
+                "alias": "SOLFDUSD_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36542,
+                "name": "UNFITRY.P",
+                "description": "Unifi Protocol DAO TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "UNFITRY_FUTURES",
+                "alias": "UNFITRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36543,
+                "name": "XRPFDUSD.P",
+                "description": "XRPFDUSD",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "XRPFDUSD_FUTURES",
+                "alias": "XRPFDUSD_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36544,
+                "name": "DOGEFDUSD.P",
+                "description": "DOGEFDUSD",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "DOGEFDUSD_FUTURES",
+                "alias": "DOGEFDUSD_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36545,
+                "name": "CYBERETH.P",
+                "description": "CyberConnect Ethereum",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "CYBERETH_FUTURES",
+                "alias": "CYBERETH_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36546,
+                "name": "MTLTRY.P",
+                "description": "Metal TURKISHLIRA",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "MTLTRY_FUTURES",
+                "alias": "MTLTRY_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36547,
+                "name": "ARKUSDT.P",
+                "description": "ARK Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "ARKUSDT_FUTURES",
+                "alias": "ARKUSDT_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36548,
+                "name": "CREAMUSDT.P",
+                "description": "Cream Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "CREAMUSDT_FUTURES",
+                "alias": "CREAMUSDT_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36549,
+                "name": "GFTUSDT.P",
+                "description": "Gifto Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "GFTUSDT_FUTURES",
+                "alias": "GFTUSDT_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36550,
+                "name": "IQUSDT.P",
+                "description": "IQ Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "IQUSDT_FUTURES",
+                "alias": "IQUSDT_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36551,
+                "name": "ENABTC.P",
+                "description": "Ethena Bitcoin",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "ENABTC_FUTURES",
+                "alias": "ENABTC_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36552,
+                "name": "SAGABTC.P",
+                "description": "Saga Bitcoin",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "SAGABTC_FUTURES",
+                "alias": "SAGABTC_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36553,
+                "name": "SAGAUSDT.P",
+                "description": "Saga Tether",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "SAGAUSDT_FUTURES",
+                "alias": "SAGAUSDT_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            },
+            {
+                "id": 36554,
+                "name": "ARKMUSDC.P",
+                "description": "Arkham USD Coin",
+                "categoryName": "CRYPTOFUTURE",
+                "ticker": "ARKMUSDC_FUTURES",
+                "alias": "ARKMUSDC_FUTURES",
+                "exchange": "BINANCE FUTURES"
+            }
+        ],
+        "categories": [
+            {
+                "english": "CRYPTOFUTURE",
+                "farsi": "\u0631\u0645\u0632 \u0627\u0631\u0632 \u0641\u06cc\u0648\u0686\u0631\u0632"
+            },
+            {
+                "english": "CRYPTOSPOT",
+                "farsi": "\u0631\u0645\u0632 \u0627\u0631\u0632 \u0627\u0633\u067e\u0627\u062a"
+            },
+            {
+                "english": "FOREX",
+                "farsi": "\u0628\u0627\u0632\u0627\u0631 \u062c\u0647\u0627\u0646\u06cc"
+            },
+            {
+                "english": "SAHAM",
+                "farsi": "\u0628\u0648\u0631\u0633 \u062a\u0647\u0631\u0627\u0646"
+            },
+            {
+                "english": "NOBITEX",
+                "farsi": "\u0631\u0645\u0632 \u0627\u0631\u0632 \u062a\u0648\u0645\u0627\u0646"
+            },
+            {
+                "english": "IRAN",
+                "farsi": "\u0637\u0644\u0627 \u0648 \u0627\u0631\u0632"
+            },
+            {
+                "english": "INDEX",
+                "farsi": "\u0634\u0627\u062e\u0635 \u0647\u0627\u06cc \u062c\u0647\u0627\u0646\u06cc"
+            },
+            {
+                "english": "BOURSE_KALA",
+                "farsi": "\u0628\u0648\u0631\u0633 \u06a9\u0627\u0644\u0627"
+            }
+        ]
+    }
+}

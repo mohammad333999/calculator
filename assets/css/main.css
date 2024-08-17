@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Inter';
+    src: url('../fonts/kalameh/KalamehWeb-Medium.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Inter2';
+    src: url('../fonts/kalameh/KalamehWeb-Light.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+ 
+}
